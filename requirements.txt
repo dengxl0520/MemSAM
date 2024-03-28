@@ -1,0 +1,16 @@
+numpy
+Pillow
+SimpleITK
+scikit-image
+monai
+einops
+hausdorff
+pandas
+batchgenerators
+opencv-python
+easydict
+ipykernel
+matplotlib
+tensorboard
+numba
+seaborn
