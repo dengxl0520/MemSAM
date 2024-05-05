@@ -1,11 +1,13 @@
 # MemSAM
-[**MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation**](/paper.pdf), CVPR 2024, Oral Presentation
+[**MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation**](/paper.pdf), CVPR 2024, _Oral_
 
 Xiaolong Deng^, [Huisi Wu*](https://csse.szu.edu.cn/staff/~hswu/), [Runhao Zeng](https://zengrunhao.com/), [Jing Qin](https://research.polyu.edu.hk/en/persons/jing-qin)
 
 <!-- ![MemSAM Design](/assets/framework.jpg) -->
 
+<div align=center>
 <img src="/assets/framework.jpg" width="600" alt="MemSAM Design" />
+</div>
 
 <!-- The code will be uploaded later. -->
 
