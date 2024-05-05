@@ -5,7 +5,7 @@ Xiaolong Deng^, [Huisi Wu*](https://csse.szu.edu.cn/staff/~hswu/), [Runhao Zeng]
 
 <!-- ![MemSAM Design](/assets/framework.jpg) -->
 
-<img src="/assets/framework.jpg" width="450" alt="MemSAM Design" align=center />
+<img src="/assets/framework.jpg" width="600" alt="MemSAM Design" />
 
 <!-- The code will be uploaded later. -->
 
