@@ -25,7 +25,15 @@ First, download the dataset from:
 - [CAMUS](https://www.creatis.insa-lyon.fr/Challenge/camus/index.html)
 - [EchoNet-Dynamic](https://echonet.github.io/dynamic/index.html)
   
-Then process the dataset according to `utils/preprocess_echonet.py` and `utils/preprocess_camus.py`.
+Then process the dataset according to `utils/preprocess_echonet.py` and `utils/preprocess_camus.py`, for example:
+
+```
+# CAMUS
+python utils/preprocess_camus.py -i /data/dengxiaolong/CAMUS_public/database_nifti -o /data/dengxiaolong/memsam/CAMUS_public
+
+# EchoNet-Dynamic
+python utils/preprocess_echonet.py -i /data/dengxiaolong/EchoNet-Dynamic -o /data/dengxiaolong/memsam/EchoNet
+```
 
 ### pretrain checkpoint download
 [ViT-B SAM model](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth)
