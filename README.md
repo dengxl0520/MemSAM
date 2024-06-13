@@ -1,8 +1,9 @@
 # MemSAM
-[**MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation**](/paper.pdf), CVPR 2024, _Oral_
+[**MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation**](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_MemSAM_Taming_Segment_Anything_Model_for_Echocardiography_Video_Segmentation_CVPR_2024_paper.pdf), CVPR 2024, _Oral_
 
 Xiaolong Deng^, [Huisi Wu*](https://csse.szu.edu.cn/staff/~hswu/), [Runhao Zeng](https://zengrunhao.com/), [Jing Qin](https://research.polyu.edu.hk/en/persons/jing-qin)
 
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_MemSAM_Taming_Segment_Anything_Model_for_Echocardiography_Video_Segmentation_CVPR_2024_paper.pdf) [[Video]](https://www.youtube.com/watch?v=N2usOkkNHQs) [[Project]](https://github.com/dengxl0520/MemSAM)
 <!-- ![MemSAM Design](/assets/framework.jpg) -->
 
 <div align=center>
@@ -45,12 +46,14 @@ Use `train_video.py` and `test_video.py` to train and test separately.
 The work is based on [SAM](https://github.com/facebookresearch/segment-anything), [SAMUS](https://github.com/xianlin7/SAMUS) and [XMem](https://github.com/hkchengrex/XMem). Thanks for the open source contributions to these efforts!
 
 ## Citation
-if you find our work useful, please cite our paper.
+if you find our work useful, please cite our paper, thank you!
 ```
-@inproceedings{deng2024memsam,
-  title={MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation},
-  author={Deng, Xiaolong and Wu, Huisi and Zeng, Runhao and Qin, Jing},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year={2024}
+@InProceedings{Deng_2024_CVPR,
+    author    = {Deng, Xiaolong and Wu, Huisi and Zeng, Runhao and Qin, Jing},
+    title     = {MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {9622-9631}
 }
 ```
